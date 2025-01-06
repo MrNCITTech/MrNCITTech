@@ -5,7 +5,7 @@
 
 
 - <b>Microsoft Azure</b>
-  - [Creating Virtual Machine within Microsoft Azure](https://github.com/joshmadakorcc/configure-ad)
+ 
 
 
 <h2>🤳Connect with me:</h2>
