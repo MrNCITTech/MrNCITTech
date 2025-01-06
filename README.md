@@ -5,6 +5,7 @@
 
 
 - <b>Microsoft Azure</b>
+- [Azure Virtual Machine: Prerequisites and Installation](https://github.com/MrNCITTech/Azure-Virtual-Machine)
  
 
 
