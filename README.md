@@ -1,5 +1,22 @@
-## Hi there 👋 My name is Derrick
 
+<h1>Hi, I'm Derrick, an <a href=https://www.linkedin.com/in/derrick-mccrimmon-737513134/"">Entry Level IT Professional</a>☺</>
+
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+
+- <b>Microsoft Azure</b>
+  - [Creating Virtual Machine within Microsoft Azure](https://github.com/joshmadakorcc/configure-ad)
+
+
+<h2>🤳Connect with me:</h2>
+
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[instagram]: https://www.instagram.com/DNICE1224
+[linkedin]: https://linkedin.com/in/DerrickMcCrimmon
 <!--
 **MrNCITTech/MrNCITTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +29,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I'm a avid fan of aviation. 
 -->
