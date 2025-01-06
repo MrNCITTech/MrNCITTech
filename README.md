@@ -16,7 +16,7 @@
 
 
 [instagram]: https://www.instagram.com/DNICE1224
-[linkedin]: https://linkedin.com/in/DerrickMcCrimmon
+[linkedin]: https://linkedin.com/in/Derrick-McCrimmon
 <!--
 **MrNCITTech/MrNCITTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
